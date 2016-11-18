@@ -45,4 +45,5 @@ was detected
 < 32 bits
 = 32 bits
 > 32 bits
+
 You should notice that in almost a 100 % of the cases, the errors were detected by CRC.
