@@ -1,6 +1,6 @@
 # Networks
 
-2. <Bit Stuffing> Write a program that has two methods/functions, namely,
+2.<Bit Stuffing> Write a program that has two methods/functions, namely,
 
 a) Method/function that generates a bit stream from a text file with bit stuffing. Recall that for
 bit stuffing, an extra 0 bit is added after every five consecutive ones. Your method should
@@ -15,7 +15,7 @@ RandomTextGenerator.com). If you have done it correctly, the output file that yo
 converting to binary and reconverting it back to ASCII must be the same as the input file. (NOTE:
 Make sure that all characters including spaces and new lines are converted to binary).
 
-3. <CRC question>
+3.<CRC question>
 
 a) Given a 12-bit sequence 110100111101 and a divisor of 1011, find the CRC and the transmitted
 string.
